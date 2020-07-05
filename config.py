@@ -1,5 +1,5 @@
 settings = {
-	'TOKEN': 'NzI4NjQ1OTI5NDU2MTA3NTUx.Xv9aeg.jpwAu5lzhkL-V-KAe8zUePa3qbU',
+	'TOKEN': 'NO',
 	'NAME BOT': 'ArtemBot',
 	'ID': 719135635272761375,
 	'PREFIX': '/',
